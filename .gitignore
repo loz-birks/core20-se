@@ -1,4 +1,6 @@
-
 *.csv
 .Rhistory
 *.sql
+.Rproj.user
+.RData
+.Ruserdata
