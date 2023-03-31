@@ -1,0 +1,12 @@
+# read libraries to keep script clutter free
+library(tidyverse)
+library(gmapsdistance)
+library(geojsonR)
+library(sf)
+library(here)
+library(readxl)
+library(PostcodesioR)
+library(parallel)
+library(RColorBrewer)
+library(dplyr)
+library(ggplot2)
